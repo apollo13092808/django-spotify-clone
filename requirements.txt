@@ -1,0 +1,7 @@
+beautifulsoup4
+Django
+django-jazzmin
+Pillow
+psycopg2-binary
+python-dotenv
+requests
